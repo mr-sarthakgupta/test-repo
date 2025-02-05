@@ -483,8 +483,9 @@ class MemorizationAnalyser:
         
         self.dataset : IterableDataset = load_dataset(
             self.dataset_name,
+            "20220301.en",
             split="train",
-            streaming=True
+            streaming=True,
         ).shuffle(
             seed  
         ).filter(
