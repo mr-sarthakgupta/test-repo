@@ -155,7 +155,7 @@ class MemorizationAnalyser:
         
         self.tokenizer = AutoTokenizer.from_pretrained(
             self.model_name,
-            padding_side="left"
+            padding_side="left",
             use_fast=True,
             clean_up_tokenization_spaces=True
         )
