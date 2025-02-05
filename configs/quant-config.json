@@ -1,0 +1,36 @@
+[
+    {
+        "level": 0,
+        "load_in_4bit": false,
+        "load_in_8bit": false,
+        "bnb_4bit_use_double_quant": false,
+        "bnb_4bit_quant_storage": "float16",
+        "bnb_4bit_compute_dtype": "float16"
+    },
+    {   
+        "level": 1,
+        "load_in_4bit": false,
+        "load_in_8bit": true,
+        "bnb_4bit_use_double_quant": false,
+        "bnb_4bit_quant_storage": "uint8",
+        "bnb_4bit_compute_dtype": "float16"
+    },
+    {
+        "level": 2,
+        "load_in_4bit": true,
+        "load_in_8bit": false,
+        "bnb_4bit_quant_type": "fp4",
+        "bnb_4bit_use_double_quant": false,
+        "bnb_4bit_quant_storage": "uint8",
+        "bnb_4bit_compute_dtype": "float16"
+    },
+    {
+        "level": 3,
+        "load_in_4bit": true,
+        "load_in_8bit": false,
+        "bnb_4bit_quant_type": "fp4",
+        "bnb_4bit_use_double_quant": true,
+        "bnb_4bit_quant_storage": "uint8",
+        "bnb_4bit_compute_dtype": "float16"
+    }
+]

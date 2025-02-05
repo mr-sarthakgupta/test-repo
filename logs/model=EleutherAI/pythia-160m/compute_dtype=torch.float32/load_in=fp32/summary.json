@@ -1,0 +1,156 @@
+{
+    "Model EleutherAI/pythia-160m Context 51 Target 51": {
+        "Context Length": 51,
+        "Target Length": 51,
+        "Memorized Ratio": 9.889240506329114e-05,
+        "Index List": [
+            8390
+        ],
+        "Outlier List": [
+            8390
+        ],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 51 Target 102": {
+        "Context Length": 51,
+        "Target Length": 102,
+        "Memorized Ratio": 9.889240506329114e-05,
+        "Index List": [
+            8390
+        ],
+        "Outlier List": [
+            8390
+        ],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 51 Target 204": {
+        "Context Length": 51,
+        "Target Length": 204,
+        "Memorized Ratio": 9.889240506329114e-05,
+        "Index List": [
+            8390
+        ],
+        "Outlier List": [
+            8390
+        ],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 51 Target 512": {
+        "Context Length": 51,
+        "Target Length": 512,
+        "Memorized Ratio": 0.0,
+        "Index List": [],
+        "Outlier List": [],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 102 Target 51": {
+        "Context Length": 102,
+        "Target Length": 51,
+        "Memorized Ratio": 9.889240506329114e-05,
+        "Index List": [
+            8390
+        ],
+        "Outlier List": [
+            8390
+        ],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 102 Target 102": {
+        "Context Length": 102,
+        "Target Length": 102,
+        "Memorized Ratio": 9.889240506329114e-05,
+        "Index List": [
+            8390
+        ],
+        "Outlier List": [
+            8390
+        ],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 102 Target 204": {
+        "Context Length": 102,
+        "Target Length": 204,
+        "Memorized Ratio": 0.0,
+        "Index List": [],
+        "Outlier List": [],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 102 Target 512": {
+        "Context Length": 102,
+        "Target Length": 512,
+        "Memorized Ratio": 0.0,
+        "Index List": [],
+        "Outlier List": [],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 204 Target 51": {
+        "Context Length": 204,
+        "Target Length": 51,
+        "Memorized Ratio": 0.00019778481012658228,
+        "Index List": [
+            8390,
+            8558
+        ],
+        "Outlier List": [
+            8390,
+            8558
+        ],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 204 Target 102": {
+        "Context Length": 204,
+        "Target Length": 102,
+        "Memorized Ratio": 0.0,
+        "Index List": [],
+        "Outlier List": [],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 204 Target 204": {
+        "Context Length": 204,
+        "Target Length": 204,
+        "Memorized Ratio": 0.0,
+        "Index List": [],
+        "Outlier List": [],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 204 Target 512": {
+        "Context Length": 204,
+        "Target Length": 512,
+        "Memorized Ratio": 0.0,
+        "Index List": [],
+        "Outlier List": [],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 512 Target 51": {
+        "Context Length": 512,
+        "Target Length": 51,
+        "Memorized Ratio": 0.0,
+        "Index List": [],
+        "Outlier List": [],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 512 Target 102": {
+        "Context Length": 512,
+        "Target Length": 102,
+        "Memorized Ratio": 0.0,
+        "Index List": [],
+        "Outlier List": [],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 512 Target 204": {
+        "Context Length": 512,
+        "Target Length": 204,
+        "Memorized Ratio": 0.0,
+        "Index List": [],
+        "Outlier List": [],
+        "Total Samples": 10112
+    },
+    "Model EleutherAI/pythia-160m Context 512 Target 512": {
+        "Context Length": 512,
+        "Target Length": 512,
+        "Memorized Ratio": 0.0,
+        "Index List": [],
+        "Outlier List": [],
+        "Total Samples": 10112
+    }
+}

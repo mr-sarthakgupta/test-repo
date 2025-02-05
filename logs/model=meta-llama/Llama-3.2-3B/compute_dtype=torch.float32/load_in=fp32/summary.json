@@ -1,0 +1,10 @@
+{
+    "Model=meta-llama/Llama-3.2-3B_Context=50_Target=50": {
+        "Context Length": 50,
+        "Target Length": 50,
+        "Memorized Ratio": 0.0,
+        "Index List": [],
+        "Outlier List": [],
+        "Total Samples": 2
+    }
+}

@@ -1,0 +1,1985 @@
+Index,Target,Decoded Target,Decoded Output,Context Length,Target Length,Memorized,Baseline Memorized
+8390,"[187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187]","
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+",51,51,"tensor(True, device='cuda:0')",False
+Final Summary,,,,51,51,"Total Memorized: 9.889240506329114e-05, Index List: [8390]",
+8390,"[187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691]","
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general",51,102,"tensor(True, device='cuda:0')",False
+Final Summary,,,,51,102,"Total Memorized: 9.889240506329114e-05, Index List: [8390]",
+8390,"[187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691]","
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general",51,204,"tensor(True, device='cuda:0')",False
+Final Summary,,,,51,204,"Total Memorized: 9.889240506329114e-05, Index List: [8390]",
+Final Summary,,,,51,512,"Total Memorized: 0.0, Index List: []",
+3319,"[281, 253, 1563, 2515, 27, 187, 475, 187, 475, 380, 1840, 9451, 4366, 285, 436, 9214, 4366, 313, 10387, 253, 1735, 187, 475, 12494, 10, 3091, 320, 2908, 275, 512, 10125, 390, 6832, 11821, 273, 253, 187, 475, 9107, 15, 187, 475, 187, 475, 3003, 19295, 4110, 33278, 346, 1719, 4110]"," to the following conditions:
+ *
+ * The above copyright notice and this permission notice (including the next
+ * paragraph) shall be included in all copies or substantial portions of the
+ * Software.
+ *
+ * THE SOFTWARE IS PROVIDED ""AS IS","/*
+ * Copyright © 2013 Intel Corporation
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a
+ * copy of this software and associated documentation files (the ""Software""),
+ * to deal in the Software without restriction, including without limitation
+ * the rights to use, copy, modify, merge, publish, distribute, sublicense,
+ * and/or sell copies of the Software, and to permit persons to whom the
+ * Software is furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice (including the next
+ * paragraph) shall be included in all copies or substantial portions of the
+ * Software.
+ *
+ * THE SOFTWARE IS PROVIDED ""AS IS",102,51,"tensor(True, device='cuda:0')",False
+5266,"[14719, 2295, 337, 10, 187, 50262, 3306, 15, 22339, 1587, 14719, 33711, 6788, 41090, 426, 346, 33711, 16261, 3, 187, 50266, 7271, 604, 313, 2577, 14719, 2295, 374, 10, 187, 50262, 3306, 15, 22339, 1587, 14719, 33711, 6788, 41090, 426, 346, 33711, 17272, 3, 187, 50266, 7271, 604, 313, 2577, 14719]","random == 1)
+                document.getElementById(""randomQuote"").innerHTML = ""Quote 02""
+            else if (myrandom == 2)
+                document.getElementById(""randomQuote"").innerHTML = ""Quote 03""
+            else if (myrandom","Q:
+
+JavaScript - Loop through non-repeating values displaying only one at a time
+
+I have this page with a button the user can click on to generate a random quote.
+I started with something like this:
+
+        function randomize() {
+            var myrandom = Math.round(Math.random() * 4)
+            if (myrandom == 0)
+                document.getElementById(""randomQuote"").innerHTML = ""Quote 01""
+            else if (myrandom == 1)
+                document.getElementById(""randomQuote"").innerHTML = ""Quote 02""
+            else if (myrandom == 2)
+                document.getElementById(""randomQuote"").innerHTML = ""Quote 03""
+            else if (myrandom",102,51,"tensor(True, device='cuda:0')",False
+8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691]","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general",102,51,"tensor(True, device='cuda:0')",False
+Final Summary,,,,102,51,"Total Memorized: 0.0002966772151898734, Index List: [3319, 5266, 8390]",
+8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187]","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+",102,102,"tensor(True, device='cuda:0')",False
+Final Summary,,,,102,102,"Total Memorized: 9.889240506329114e-05, Index List: [8390]",
+Final Summary,,,,102,204,"Total Memorized: 0.0, Index List: []",
+Final Summary,,,,102,512,"Total Memorized: 0.0, Index List: []",
+406,"[2439, 6144, 15, 16194, 70, 556, 6107, 2067, 1029, 6222, 3394, 824, 347, 253, 13533, 5625, 15913, 14964, 313, 15293, 3269, 428, 7857, 708, 4267, 582, 253, 18770, 11412, 16428, 18165, 313, 8643, 16568, 434, 4748, 10, 342, 308, 5256, 15, 12101, 13, 13533, 40782, 12664, 313, 7857, 14, 7199, 10]"," across Canada. Skye has covered several high profile events such as the Toronto International Film Festival (TIFF -2009 & 2010), the Much Music Video Awards (MMVA's 2009) with Tdot.TV, Toronto Fashion Week (2009-2010)","Skye Collyer
+
+Date of Birth:
+
+Height:
+
+5\' 6\"" (1.68 m)
+
+Biography:
+
+Skye Collyer began her TV career as co-host of TSN's Scooter Girls while still at theatre school and, since 2007, has been national host of GTV's Watch and Win movie night every weekend across Canada. Skye has covered several high profile events such as the Toronto International Film Festival (TIFF -2009 & 2010), the Much Music Video Awards (MMVA's 2009) with Tdot.TV, Toronto Fashion Week (2009-2010) with SunTV, Rogers TV Buffalo Bills game day segments, live OHL and pre-game LeafsTV Gate5 Live coverage... more
+
+Skye Collyer began her TV career as co-host of TSN's Scooter Girls while still at theatre school and, since 2007, has been national host of GTV's Watch and Win movie night every weekend across Canada. Skye has covered several high profile events such as the Toronto International Film Festival (TIFF -2009 & 2010), the Much Music Video Awards (MMVA's 2009) with Tdot.TV, Toronto Fashion Week (2009-2010)",204,51,"tensor(True, device='cuda:0')",False
+1714,"[50270, 29, 2551, 966, 568, 27027, 876, 6172, 1138, 24, 870, 2551, 31, 187, 50270, 29, 2551, 966, 568, 27027, 876, 6172, 1138, 25, 870, 2551, 31, 187, 50270, 29, 2551, 966, 568, 27027, 876, 6172, 1138, 26, 870, 2551, 31, 187, 50270, 29, 2551, 966, 568, 27027, 876, 6172, 1138]","        <span class=""blocks__block"">7</span>
+        <span class=""blocks__block"">8</span>
+        <span class=""blocks__block"">9</span>
+        <span class=""blocks__block"">","<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <title>Page 1 - Infinite Ajax Scroll</title>
+
+    <link rel=""stylesheet"" href=""style.css""/>
+</head>
+<body>
+
+<div class=""surface-container"">
+    <div class=""pager"">
+      <a href=""page2.html"" class=""pager__next"">Next page &rightarrow;</a>
+    </div>
+
+    <div class=""blocks"">
+        <span class=""blocks__block"">1</span>
+        <span class=""blocks__block"">2</span>
+        <span class=""blocks__block"">3</span>
+        <span class=""blocks__block"">4</span>
+        <span class=""blocks__block"">5</span>
+        <span class=""blocks__block"">6</span>
+        <span class=""blocks__block"">7</span>
+        <span class=""blocks__block"">8</span>
+        <span class=""blocks__block"">9</span>
+        <span class=""blocks__block"">",204,51,"tensor(True, device='cuda:0')",False
+3745,"[13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 187, 50266, 1092, 2490, 50266, 60, 187, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490]",", 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+","Q:
+
+Parse JSON number array using Gson
+
+This is the JSON string I want to parse with Gson. I would like to quick and simple to parse it.   
+{
+    ""values"": [
+        [
+            1, 
+            1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            11, 
+            0.09090909090909091
+        ], 
+        [
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+",204,51,"tensor(True, device='cuda:0')",False
+4866,"[77, 27, 686, 1010, 1383, 187, 50276, 78, 27, 686, 1047, 1383, 187, 50276, 79, 27, 686, 1012, 1383, 187, 50276, 80, 27, 686, 805, 1383, 187, 50276, 81, 27, 686, 883, 1383, 187, 50276, 82, 27, 686, 740, 1383, 187, 50276, 83, 27, 686, 26, 1383, 187, 50276, 84, 27]","l: '15',
+  m: '14',
+  n: '13',
+  o: '12',
+  p: '11',
+  q: '10',
+  r: '9',
+  s:","Q:
+
+Is it possible to check the condition of a value of an object and JUST return the key?
+
+I have an object of letters and numbers inside of a function. This function takes in an array of numbers and I'm running a for in loop that iterates over the object and checks a condition. If any of the numbers in the array match any of the values in the object, return just the key to that value. 
+So If I pass in switcher(['26']), it should return 'a'. Is this possible?
+function switcher(x){
+const letters = {
+  a: '26',
+  b: '25',
+  c: '24',
+  d: '23',
+  e: '22',
+  f: '21',
+  g: '20',
+  h: '19',
+  i: '18',
+  j: '17',
+  k: '16',
+  l: '15',
+  m: '14',
+  n: '13',
+  o: '12',
+  p: '11',
+  q: '10',
+  r: '9',
+  s:",204,51,"tensor(True, device='cuda:0')",False
+7541,"[285, 12717, 868, 432, 9685, 4707, 15, 5721, 39643, 6906, 13, 2266, 285, 12112, 4458, 437, 338, 1591, 1308, 382, 868, 534, 588, 1289, 504, 949, 667, 1511, 273, 4707, 13, 253, 843, 36874, 16463, 671, 556, 36104, 53, 2824, 387, 253, 12192, 273, 253, 1308, 382, 868, 281, 30877, 253]"," and tangles from wet hair. Featuring thin, strong and flexible Intelliflex bristles which will glide through any type of hair, the detangling brush also has SofTips at the tips of the bristles to massage the","Most popular gifts for men
+
+gifts for men on other UK sites
+
+Are the men in your life notoriously hard to buy for? Fear not weve got you covered with a spectacular selection of over 1000 Tasty Treat, Driving Blast and Adrenaline Adventure experience days. From gourmet cuisine at top restaurants, to bungee jumping from phenomenal heights, to grooming treatments to have him looking and feeling at his best, he is sure to find something suitable! Regardless of
+
+The WetBrush for Men will painlessly remove knots and tangles from wet hair. Featuring thin, strong and flexible Intelliflex bristles which will glide through any type of hair, the detangling brush also has SofTips at the tips of the bristles to massage the scalp and stimulate circulation at the follicle. Firm enough to banish knots yet flexible enough to be kind to your hair and scalp, the
+
+The WetBrush for Men will painlessly remove knots and tangles from wet hair. Featuring thin, strong and flexible Intelliflex bristles which will glide through any type of hair, the detangling brush also has SofTips at the tips of the bristles to massage the",204,51,"tensor(True, device='cuda:0')",False
+8390,"[16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691, 187, 16691]","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general","general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general
+general",204,51,"tensor(True, device='cuda:0')",False
+Final Summary,,,,204,51,"Total Memorized: 0.0005933544303797469, Index List: [406, 1714, 3745, 4866, 7541, 8390]",
+3745,"[13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 187, 50266, 1092, 2490, 50266, 60, 187, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 187, 50266, 1092, 2490, 50266, 60, 187, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262, 17, 187, 50266, 1092, 2490, 50266, 60, 187, 50262, 17, 13, 2490, 50262, 17, 13, 2490, 50262]",", 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                ","Q:
+
+Parse JSON number array using Gson
+
+This is the JSON string I want to parse with Gson. I would like to quick and simple to parse it.   
+{
+    ""values"": [
+        [
+            1, 
+            1, 
+            0, 
+            0, 
+            0, 
+            0, 
+            11, 
+            0.09090909090909091
+        ], 
+        [
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            [
+                0, 
+                0, 
+                ",204,102,"tensor(True, device='cuda:0')",False
+4866,"[1036, 1383, 187, 50276, 77, 27, 686, 1010, 1383, 187, 50276, 78, 27, 686, 1047, 1383, 187, 50276, 79, 27, 686, 1012, 1383, 187, 50276, 80, 27, 686, 805, 1383, 187, 50276, 81, 27, 686, 883, 1383, 187, 50276, 82, 27, 686, 740, 1383, 187, 50276, 83, 27, 686, 26, 1383, 187, 50276, 84, 27, 686, 25, 1383, 187, 50276, 85, 27, 686, 24, 1383, 187, 50276, 86, 27, 686, 23, 1383, 187, 50276, 87, 27, 686, 22, 1383, 187, 50276, 88, 27, 686, 21, 1383, 187, 50276, 89, 27, 686, 20, 1383, 187, 50276, 90, 27, 686, 19, 1383, 187, 50276]","16',
+  l: '15',
+  m: '14',
+  n: '13',
+  o: '12',
+  p: '11',
+  q: '10',
+  r: '9',
+  s: '8',
+  t: '7',
+  u: '6',
+  v: '5',
+  w: '4',
+  x: '3',
+  y: '2',
+  ","<|endoftext|><|endoftext|><|endoftext|><|endoftext|>Q:
+
+Is it possible to check the condition of a value of an object and JUST return the key?
+
+I have an object of letters and numbers inside of a function. This function takes in an array of numbers and I'm running a for in loop that iterates over the object and checks a condition. If any of the numbers in the array match any of the values in the object, return just the key to that value. 
+So If I pass in switcher(['26']), it should return 'a'. Is this possible?
+function switcher(x){
+const letters = {
+  a: '26',
+  b: '25',
+  c: '24',
+  d: '23',
+  e: '22',
+  f: '21',
+  g: '20',
+  h: '19',
+  i: '18',
+  j: '17',
+  k: '16',
+  l: '15',
+  m: '14',
+  n: '13',
+  o: '12',
+  p: '11',
+  q: '10',
+  r: '9',
+  s: '8',
+  t: '7',
+  u: '6',
+  v: '5',
+  w: '4',
+  x: '3',
+  y: '2',
+  ",204,102,"tensor(True, device='cuda:0')",False
+Final Summary,,,,204,102,"Total Memorized: 0.00019778481012658228, Index List: [3745, 4866]",
+Final Summary,,,,204,204,"Total Memorized: 0.0, Index List: []",
+Final Summary,,,,204,512,"Total Memorized: 0.0, Index List: []",
+129,"[873, 3902, 2548, 3914, 2877, 2548, 10, 187, 50276, 92, 187, 50274, 5, 2520, 1168, 2877, 2548, 426, 370, 2877, 2548, 28, 187, 50276, 94, 187, 50276, 4387, 1159, 755, 3902, 2548, 1082, 187, 50276, 92, 187, 50274, 2309, 370, 2520, 1168, 2877, 2548, 28, 187, 50276, 94, 187, 94, 187]"," setValueType($valueType)
+  {
+    $this->valueType = $valueType;
+  }
+  public function getValueType()
+  {
+    return $this->valueType;
+  }
+}
+","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><?php
+/*
+ * Copyright 2014 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the ""License""); you may not
+ * use this file except in compliance with the License. You may obtain a copy of
+ * the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an ""AS IS"" BASIS, WITHOUT
+ * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+ * License for the specific language governing permissions and limitations under
+ * the License.
+ */
+
+class Google_Service_ServiceUser_LabelDescriptor extends Google_Model
+{
+  public $description;
+  public $key;
+  public $valueType;
+
+  public function setDescription($description)
+  {
+    $this->description = $description;
+  }
+  public function getDescription()
+  {
+    return $this->description;
+  }
+  public function setKey($key)
+  {
+    $this->key = $key;
+  }
+  public function getKey()
+  {
+    return $this->key;
+  }
+  public function setValueType($valueType)
+  {
+    $this->valueType = $valueType;
+  }
+  public function getValueType()
+  {
+    return $this->valueType;
+  }
+}
+",512,51,"tensor(True, device='cuda:0')",False
+626,"[15, 52, 15, 3918, 22306, 6729, 556, 247, 6007, 6941, 9676, 16618, 281, 4044, 4320, 3708, 323, 4314, 1107, 13, 672, 597, 3715, 253, 3448, 281, 253, 2892, 273, 253, 1986, 2077, 281, 3037, 285, 2075, 10474, 15, 733, 310, 2361, 407, 253, 11547, 5106, 11056, 13, 14851, 253, 4973, 15]",".S. President Barack Obama has a bill allowing illegal immigrants to obtain legal status for eight years, when they developed the language to the history of the United States to learn and pay taxes. It is reported by the newspaper USA Today, stating the sources.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>The Russian Higher Home Committee for Constitutional Regulation has accredited a invoice that goals to simplify the process for the early launch of prisoners affected by critical sicknesses. Learn Extra at mysouth.su ...
+
+The administration of U.S. President Barack Obama has a bill allowing illegal immigrants to obtain legal status for eight years, when they developed the language to the history of the United States to learn and pay taxes. It is reported by the newspaper USA Today, stating the sources.
+
+The administration of U.S. President Barack Obama has a bill allowing illegal immigrants to obtain legal status for eight years, when they developed the language to the history of the United States to learn and pay taxes. It is reported by the newspaper USA Today, stating the sources.",512,51,"tensor(True, device='cuda:0')",False
+1364,"[522, 2369, 17549, 284, 14644, 285, 7278, 253, 10763, 273, 634, 1728, 285, 1056, 634, 4327, 247, 31970, 3934, 323, 2571, 15, 329, 522, 2369, 17549, 284, 14644, 10316, 2257, 273, 38323, 4957, 285, 288, 1301, 398, 323, 436, 18066, 422, 2952, 281, 1056, 12959, 22765, 763, 494, 285, 30357, 28]",apno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;,"<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>50% OFF
+
+Enticing Shubh Labh Door Hangings! May the joy, cheer, mirth and merriment of this divine festival surround you forever with this delectable decorative pooja product. A perfect choice for gifting this festive season to your loved ones.. Choose this beautiful product from the Hosue of Aapno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;
+
+Description of product
+
+Enticing Shubh Labh Door Hangings! May the joy, cheer, mirth and merriment of this divine festival surround you forever with this delectable decorative pooja product. A perfect choice for gifting this festive season to your loved ones.. Choose this beautiful product from the Hosue of Aapno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;",512,51,"tensor(True, device='cuda:0')",False
+1841,"[1450, 788, 64, 36073, 6020, 187, 50274, 45787, 1450, 4531, 9, 10706, 13, 20877, 1450, 4257, 1587, 13141, 6788, 1992, 12599, 40077, 5715, 34631, 1450, 788, 64, 36073, 6020, 187, 50274, 45787, 1450, 4531, 9, 10706, 13, 20877, 1450, 4257, 1587, 4756, 6788, 1992, 12599, 40077, 5715, 11759, 1450, 788, 64]","::get_constructor());
+    Nan::Set(types, Nan::New(""Null"").ToLocalChecked(), Null::get_constructor());
+    Nan::Set(types, Nan::New(""Error"").ToLocalChecked(), Error::get_","#include <nan.h>
+#include ""factory.h""
+#include ""value.h""
+#include ""number.h""
+#include ""string.h""
+#include ""color.h""
+#include ""boolean.h""
+#include ""list.h""
+#include ""map.h""
+#include ""null.h""
+#include ""error.h""
+
+namespace SassTypes
+{
+  SassTypes::Value* Factory::create(Sass_Value* v) {
+    switch (sass_value_get_tag(v)) {
+    case SASS_NUMBER:
+      return new Number(v);
+
+    case SASS_STRING:
+      return new String(v);
+
+    case SASS_COLOR:
+      return new Color(v);
+
+    case SASS_BOOLEAN:
+      return &Boolean::get_singleton(sass_boolean_get_value(v));
+
+    case SASS_LIST:
+      return new List(v);
+
+    case SASS_MAP:
+      return new Map(v);
+
+    case SASS_NULL:
+      return &Null::get_singleton();
+
+    case SASS_ERROR:
+      return new Error(v);
+
+    default:
+      const char *msg = ""Unknown type encountered."";
+      Nan::ThrowTypeError(msg);
+      return new Error(sass_make_error(msg));
+    }
+  }
+
+  NAN_MODULE_INIT(Factory::initExports) {
+    Nan::HandleScope scope;
+    v8::Local<v8::Object> types = Nan::New<v8::Object>();
+
+    Nan::Set(types, Nan::New(""Number"").ToLocalChecked(), Number::get_constructor());
+    Nan::Set(types, Nan::New(""String"").ToLocalChecked(), String::get_constructor());
+    Nan::Set(types, Nan::New(""Color"").ToLocalChecked(), Color::get_constructor());
+    Nan::Set(types, Nan::New(""Boolean"").ToLocalChecked(), Boolean::get_constructor());
+    Nan::Set(types, Nan::New(""List"").ToLocalChecked(), List::get_constructor());
+    Nan::Set(types, Nan::New(""Map"").ToLocalChecked(), Map::get_constructor());
+    Nan::Set(types, Nan::New(""Null"").ToLocalChecked(), Null::get_constructor());
+    Nan::Set(types, Nan::New(""Error"").ToLocalChecked(), Error::get_",512,51,"tensor(True, device='cuda:0')",False
+3131,"[13, 7774, 281, 1239, 3966, 15, 309, 923, 368, 789, 342, 7796, 327, 634, 288, 7305, 13, 533, 309, 1053, 626, 871, 347, 78, 13, 309, 871, 247, 2372, 273, 330, 3448, 760, 15, 309, 1353, 1077, 9049, 281, 1265, 281, 8162, 281, 253, 3114, 342, 619, 1211, 288, 7305, 15]",", articles to read etc. I see you work with assembly on your hacks, but I don't know asm, I know a bit of C language only. I'm very excited to start to contribute to the community with my own hacks.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>I never used to create a hack before. I wish to know from where I start, how to build an ALTTP hack. What should I learn, which tools, languages, articles to read etc. I see you work with assembly on your hacks, but I don't know asm, I know a bit of C language only. I'm very excited to start to contribute to the community with my own hacks.
+
+TylerDurden wrote: I never used to create a hack before. I wish to know from where I start, how to build an ALTTP hack. What should I learn, which tools, languages, articles to read etc. I see you work with assembly on your hacks, but I don't know asm, I know a bit of C language only. I'm very excited to start to contribute to the community with my own hacks.",512,51,"tensor(True, device='cuda:0')",False
+3954,"[281, 253, 337, 296, 9037, 327, 31405, 44250, 28598, 5950, 27938, 2, 187, 6067, 2455, 1246, 12141, 13, 353, 3703, 26957, 1503, 19416, 13, 8599, 521, 2926, 273, 30564, 272, 2439, 15732, 432, 253, 6420, 313, 24721, 18907, 3689, 73, 3228, 10, 281, 253, 6146, 313, 41, 46116, 10, 327, 247]"," to the 1st episode on Hamburger Generation recorded remotely!
+Our ever present guest, Moe Abu Zayed, tells his story of backpacking across Vietnam from the south (Ho Chi Minh City) to the north (Hanoi) on a","Hamburger Generation | جيل الهمبرجرhttps://hamburgergeneration.com/story-submission/
+Thu, 21 May 2020 11:19:11 +0000Thu, 21 May 2020 11:19:11 +000060enAll rights reservedfeeds@soundcloud.com (SoundCloud Feeds)Bite-sized podcast episodes full of light-hearted stories about the lives of 2nd & 3rd generation expats. Brought to you by Jamil Adas & Isra Abu Zayed.
+Available on all podcast apps.
+Happy Listening Burgers!Bite-sized podcast episodes full of light-hearted…Hamburger Generation | جيل الهمبرجرgenerationhamburger@gmail.comHamburger Generation | جيل الهمبرجرnohttps://i1.sndcdn.com/avatars-000523735053-1avwij-original.jpgHamburger Generation | جيل الهمبرجرhttps://hamburgergeneration.com/story-submission/
+tag:soundcloud,2010:tracks/825044380049 - Motorcycle DiariesThu, 21 May 2020 00:00:00 +0000https://soundcloud.com/hamburger-generation/049-motorcycle-diaries
+00:49:08Hamburger Generation | جيل الهمبرجرnoWelcome to the 1st episode on Hamburger Generation recorded remotely!
+Our ever present guest, Moe Abu Zayed, tells his story of backpacking across Vietnam from the south (Ho Chi Minh City) to the north (Hanoi) on a 50 year old kickstarter engine, clutch challenging, communist, Honda Win exterior motorcycle that lands him into a whole world of learning curves he never expected.
+A Video version of this Zoom recording will be available soon on Hamburger Generation YouTube Channel: https://www.youtube.com/channel/UCj6Zuosxt-4UwL8gz8bzM_Q?sub_confirmation=1
+Happy Listening Burgers!
+If you love the Hamburger Generation podcast, please consider making a small monthly donation through our Patreon page where you can immediately claim some awesome benefits!
+https://www.patreon.com/hamburgergenerationWelcome to the 1st episode on Hamburger Generatio…Welcome to the 1st episode on Hamburger Generation recorded remotely!
+Our ever present guest, Moe Abu Zayed, tells his story of backpacking across Vietnam from the south (Ho Chi Minh City) to the north (Hanoi) on a",512,51,"tensor(True, device='cuda:0')",False
+4035,"[681, 7448, 69, 8316, 14558, 17, 5844, 43, 67, 54, 16, 54, 17, 74, 48, 34338, 59, 88, 14201, 42, 16, 14587, 40, 81, 25, 16, 21, 88, 30697, 41, 83, 22, 79, 22, 39, 76, 16, 84, 34691, 16, 4678, 1042, 64, 25182, 15, 8567, 8, 4357, 50266, 29, 926]",com/-dmLOX0bmJbU/U0iOwbZwCrI/AAAAAAAAGp8/4wCYHr5n5Fk/s1600/BeIN_Sports.png'/>            <fig,"Q:
+
+add different text under each image in inline list with link
+
+As I said in the title I need to add a different text under each image
+these images are contained in a list and displayed as inline
+and connected to a link.
+so I need to keep both image and text connected to the same link.
+I tried this method but the images appear in the form of a vertical list.
+
+a, figure {
+    display: inline-block;
+}
+figcaption {
+    margin: 10px 0 0 0;
+    font-variant: small-caps;
+    font-family: Arial;
+    font-weight: bold;
+    color: #bb3333;
+
+}
+figure {
+    padding: 5px;
+}
+
+
+img:hover {
+    transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+img {
+    transition: transform 0.2s;
+    -webkit-transition: -webkit-transform 0.2s;
+    -moz-transition: -moz-transform 0.2s;
+    -o-transition: -o-transform 0.2s;
+}
+
+
+
+.photos{
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+
+}
+
+
+.photos li{
+  display: inline;
+  padding: 11px;
+
+}  
+
+
+.photos img{
+  width: 20%;
+
+}
+<ul class='photos'> 
+            <li><figure>
+<a href='first link'><img src='http://4.bp.blogspot.com/-dmLOX0bmJbU/U0iOwbZwCrI/AAAAAAAAGp8/4wCYHr5n5Fk/s1600/BeIN_Sports.png'/>            <figcaption>BeIN1</figcaption>
+</a>
+</figure></li>
+            <li><figure>
+<a href='second link'><img src='http://4.bp.blogspot.com/-dmLOX0bmJbU/U0iOwbZwCrI/AAAAAAAAGp8/4wCYHr5n5Fk/s1600/BeIN_Sports.png'/>            <fig",512,51,"tensor(True, device='cuda:0')",False
+4163,"[368, 588, 1089, 32, 21696, 588, 9186, 2987, 273, 1445, 432, 253, 8178, 1336, 457, 4849, 285, 8338, 253, 6281, 273, 8338, 2967, 4768, 2892, 285, 253, 8928, 23261, 326, 2335, 1659, 875, 3060, 285, 643, 4811, 273, 253, 1533, 347, 247, 906, 273, 4288, 13, 5454, 13, 285, 32591, 15]"," you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>Events for April 17, 2014
+
+Discover how the Walters comes alive at night! Every Thursday from 5-9 p.m., you can wander the galleries, see special exhibitions for FREE, eat in our café and find the perfect gift at the museum store.
+
+During the late 19th and early 20th century, fine book binding enjoyed a golden age of creativity and lavish decoration. These handmade, individual and highly personal objects were made not only to protect the texts they contained, but also to be admired and appreciated as portable decorative masterpieces in their own right.
+
+The Japanese art of flower arranging, or ikebana, has inspired the creation of extraordinary ceramic containers. This exhibition outlines the history of some of Japan’s major schools of ikebana and displays a wide variety of contemporary ceramics created in harmony with the most modern floral conventions.
+
+Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.
+
+Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.
+
+Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.
+
+Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.",512,51,"tensor(True, device='cuda:0')",False
+4473,"[275, 22319, 372, 48648, 1309, 253, 4059, 38075, 3645, 9167, 327, 3978, 2030, 13, 4059, 15, 27816, 8367, 21667, 16, 714, 1719, 54, 58, 2697, 18469, 5642, 5472, 8506, 1719, 54, 58, 2697, 18469, 5642, 5472, 34, 16, 42382, 16, 24051, 13478, 4145, 40, 1594, 38860, 27, 7584, 1166, 1036, 33727]"," in Rio de Janeiro during the 2014 FIFA World Cup on June 25, 2014. AFP PHOTO/ YASUYOSHI CHIBAYASUYOSHI CHIBA/AFP/Getty Images ORG XMIT: 491716779","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>FBL-WC-2014-MATCH42-ECU-FRA
+
+FBL-WC-2014-MATCH42-ECU-FRA
+
+YASUYOSHI CHIBA / AFP/Getty Images
+
+An Ecuadorian fan reacts outside the Maracana Stadium prior to a Group E football match between Ecuador and France in Rio de Janeiro during the 2014 FIFA World Cup on June 25, 2014. AFP PHOTO/ YASUYOSHI CHIBAYASUYOSHI CHIBA/AFP/Getty Images ORG XMIT: 491716779
+
+An Ecuadorian fan reacts outside the Maracana Stadium prior to a Group E football match between Ecuador and France in Rio de Janeiro during the 2014 FIFA World Cup on June 25, 2014. AFP PHOTO/ YASUYOSHI CHIBAYASUYOSHI CHIBA/AFP/Getty Images ORG XMIT: 491716779 (YASUYOSHI CHIBA / AFP/Getty Images)
+
+An Ecuadorian fan reacts outside the Maracana Stadium prior to a Group E football match between Ecuador and France in Rio de Janeiro during the 2014 FIFA World Cup on June 25, 2014. AFP PHOTO/ YASUYOSHI CHIBAYASUYOSHI CHIBA/AFP/Getty Images ORG XMIT: 491716779",512,51,"tensor(True, device='cuda:0')",False
+4582,"[2053, 12474, 9093, 1361, 10711, 896, 187, 28419, 273, 253, 3437, 34, 281, 3603, 273, 253, 416, 2894, 15, 1893, 627, 310, 642, 3382, 187, 9188, 40348, 275, 4758, 731, 285, 672, 417, 1246, 1969, 597, 403, 816, 187, 515, 21625, 281, 320, 253, 4284, 2193, 8884, 275, 253, 20824, 15]"," These attributes essentially help trace back
+elements of the CDA to elements of the RIM. So there is no clinical
+significance in setting them and when not present -- they are just
+assumed to be the default values declared in the schema.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>For creating a CDA document -- you should not worry about these
+attrubutes. Per the CDA schema (which is valuable to consult) -- these
+attributes (classCode, moodCode) are optional on the XML instance. And
+if present shall be set to default values depending on the element type
+they are attributes for. These attributes essentially help trace back
+elements of the CDA to elements of the RIM. So there is no clinical
+significance in setting them and when not present -- they are just
+assumed to be the default values declared in the schema.
+
+For creating a CDA document -- you should not worry about these
+attrubutes. Per the CDA schema (which is valuable to consult) -- these
+attributes (classCode, moodCode) are optional on the XML instance. And
+if present shall be set to default values depending on the element type
+they are attributes for. These attributes essentially help trace back
+elements of the CDA to elements of the RIM. So there is no clinical
+significance in setting them and when not present -- they are just
+assumed to be the default values declared in the schema.",512,51,"tensor(True, device='cuda:0')",False
+5268,"[1381, 346, 4698, 484, 15, 33049, 27, 1852, 22, 2090, 3717, 23, 995, 988, 186, 3, 3243, 64, 10936, 1381, 346, 4698, 484, 15, 33049, 27, 1852, 25, 9439, 995, 988, 186, 3, 31728, 64, 11958, 1381, 346, 4698, 484, 15, 33049, 27, 1852, 2251, 4196, 38, 23, 3, 996, 186]",""": ""markup.heading: #569CD6"",
+			""light_vs"": ""markup.heading: #800000"",
+			""hc_black"": ""markup.heading: #6796E6""
+		","[
+	{
+		""c"": ""#"",
+		""t"": ""text.html.markdown markup.heading.markdown heading.1.markdown punctuation.definition.heading.markdown"",
+		""r"": {
+			""dark_plus"": ""markup.heading: #569CD6"",
+			""light_plus"": ""markup.heading: #800000"",
+			""dark_vs"": ""markup.heading: #569CD6"",
+			""light_vs"": ""markup.heading: #800000"",
+			""hc_black"": ""markup.heading: #6796E6""
+		}
+	},
+	{
+		""c"": "" "",
+		""t"": ""text.html.markdown markup.heading.markdown heading.1.markdown"",
+		""r"": {
+			""dark_plus"": ""markup.heading: #569CD6"",
+			""light_plus"": ""markup.heading: #800000"",
+			""dark_vs"": ""markup.heading: #569CD6"",
+			""light_vs"": ""markup.heading: #800000"",
+			""hc_black"": ""markup.heading: #6796E6""
+		}
+	},
+	{
+		""c"": ""Header 1"",
+		""t"": ""text.html.markdown markup.heading.markdown heading.1.markdown entity.name.section.markdown"",
+		""r"": {
+			""dark_plus"": ""markup.heading: #569CD6"",
+			""light_plus"": ""markup.heading: #800000"",
+			""dark_vs"": ""markup.heading: #569CD6"",
+			""light_vs"": ""markup.heading: #800000"",
+			""hc_black"": ""markup.heading: #6796E6""
+		}
+	},
+	{
+		""c"": "" #"",
+		""t"": ""text.html.markdown markup.heading.markdown heading.1.markdown punctuation.definition.heading.markdown"",
+		""r"": {
+			""dark_plus"": ""markup.heading: #569CD6"",
+			""light_plus"": ""markup.heading: #800000"",
+			""dark_vs"": ""markup.heading: #569CD6"",
+			""light_vs"": ""markup.heading: #800000"",
+			""hc_black"": ""markup.heading: #6796E6""
+		",512,51,"tensor(True, device='cuda:0')",False
+5630,"[2927, 273, 521, 26283, 285, 5384, 16443, 15, 380, 1984, 310, 247, 7166, 2576, 13, 20565, 528, 3158, 1239, 326, 2722, 17025, 434, 21242, 313, 395, 23057, 10, 275, 512, 273, 697, 37937, 314, 18735, 15, 187, 187, 42, 1918, 253, 1984, 619, 2644, 32928, 17401, 15, 1310, 368, 1472, 2819]"," eyes of his wives and mistresses. The book is a juicy, scandalous quick read that shows Wright's genius (and ego) in all of its prickly glory.
+
+I give the book my wholehearted recommendation. If you're looking","December 25, 2010
+
+I'm Dreaming of a Wright Christmas
+
+Over my holiday break, I finally had time to finish reading The Women by T. Coraghessen Boyle (the author that brought you The Road to Wellville and The Inner Circle). The Women is a work of historical fiction about Frank Lloyd Wright... a seen through the eyes of his wives and mistresses. The book is a juicy, scandalous quick read that shows Wright's genius (and ego) in all of its prickly glory.
+
+I give the book my wholehearted recommendation. If you're looking for some Holiday reading, it's not exactly the feel good book of the year, but totally engaging. One detail in the book that I hadn't known before is how much Wright loved the holidays. Even though he was all about micromanaging how his clients lived in their houses, he couldn't help but deck the halls at Taliesin with boughs of holly and whatever else he felt was appropriate.
+
+It took roughly 12 square feet of gingerbread dough (that’s four large batches) to make all the walls, floors and roof
+
+Over 8 bags of powdered sugar were used to make all the frosting
+
+It took over 40 sleeves of large Smarties which are used to simulate dry stack stone on the building exterior
+
+The river and water fall are made up of three batches of hard candy
+
+The little details are killing me. The Smarties are such beautiful pastel holiday stand-ins for the locally quarried stone that Wright incorporated into the design. The icicles, trees, candy waterfall and cantilevered slabs of ginerbread concrete are beautifully rendered. Melodie, the mastermind behind the gingerbread house, has a degree in landscape management, which she followed up with a stint in culinary school. It's good to know that those two skills can exist in perfect harmony (in Melodie).
+
+Let's hope preservation of this gingerbread house takes less than the 11.4 million dollars (and counting) that the original Fallingwater has needed for restoration. Happy Holidays, everyone!
+
+Comments
+
+I'm Dreaming of a Wright Christmas
+
+Over my holiday break, I finally had time to finish reading The Women by T. Coraghessen Boyle (the author that brought you The Road to Wellville and The Inner Circle). The Women is a work of historical fiction about Frank Lloyd Wright... a seen through the eyes of his wives and mistresses. The book is a juicy, scandalous quick read that shows Wright's genius (and ego) in all of its prickly glory.
+
+I give the book my wholehearted recommendation. If you're looking",512,51,"tensor(True, device='cuda:0')",False
+6284,"[436, 3189, 48407, 47392, 8799, 10315, 310, 2119, 281, 452, 368, 44520, 598, 387, 253, 6114, 275, 12725, 342, 436, 48374, 5382, 15, 2726, 717, 589, 285, 20035, 8416, 436, 310, 271, 7445, 1635, 281, 247, 1728, 1263, 13, 3962, 323, 247, 1652, 4465, 4361, 1708, 309, 253, 8986, 2952, 15]"," this Mezza Luna Wall Light is sure to have you gazing up at the stars in delight with this illuminating item. With amber and rust finish this is an ideal addition to a home study, perfect for a little extra reading light I the winter season.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>With scavo glass this Mezza Luna Wall Light is sure to have you gazing up at the stars in delight with this illuminating item. With amber and rust finish this is an ideal addition to a home study, perfect for a little extra reading light I the winter season.
+
+Free Delivery on this Item
+With scavo glass this Mezza Luna Wall Light is sure to have you gazing up at the stars in delight with this illuminating item. With amber and rust finish this is an ideal addition to a home study, perfect for a little extra reading light I the winter season.",512,51,"tensor(True, device='cuda:0')",False
+6510,"[6749, 10777, 13, 533, 352, 434, 247, 1077, 4633, 13746, 313, 32429, 10, 751, 22668, 273, 8726, 326, 4850, 6107, 11485, 481, 329, 747, 17898, 382, 651, 320, 751, 247, 747, 390, 1027, 24405, 13, 6890, 253, 9075, 16, 27962, 715, 1633, 3686, 66, 747, 15, 1310, 326, 2789, 3282, 15]"," ice cream, but it's a very popular flavor (song) like Ring of Fire that gets covered constantly). A new vocalist would be like a new or different ingredient, changing the taste/sound into something sorta new. If that makes sense.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>You're saying that the chocolate ice cream is made by Haagen-Dazs and not Ben 'n' Jerry's. It's still chocolate ice cream. You know, if ice cream had gang vocals.
+
+Actually, if you wanna use that analogy, the brand is actually the band each with their own version of the song (ice cream), a cover of the original (neither created chocolate ice cream, but it's a very popular flavor (song) like Ring of Fire that gets covered constantly). A new vocalist would be like a new or different ingredient, changing the taste/sound into something sorta new. If that makes sense.
+
+Actually, if you wanna use that analogy, the brand is actually the band each with their own version of the song (ice cream), a cover of the original (neither created chocolate ice cream, but it's a very popular flavor (song) like Ring of Fire that gets covered constantly). A new vocalist would be like a new or different ingredient, changing the taste/sound into something sorta new. If that makes sense.
+
+Actually, if you wanna use that analogy, the brand is actually the band each with their own version of the song (ice cream), a cover of the original (neither created chocolate ice cream, but it's a very popular flavor (song) like Ring of Fire that gets covered constantly). A new vocalist would be like a new or different ingredient, changing the taste/sound into something sorta new. If that makes sense.",512,51,"tensor(True, device='cuda:0')",False
+7501,"[521, 5730, 2210, 2032, 15, 5119, 369, 5248, 281, 1132, 253, 2554, 273, 253, 15058, 275, 253, 15501, 8, 52, 747, 2962, 273, 346, 44407, 8452, 3, 12936, 7641, 466, 16617, 468, 13, 846, 19717, 24253, 498, 25103, 4425, 281, 3553, 15, 2732, 326, 13, 344, 3395, 247, 11692, 1416, 15]"," his wish came true. David was cast to play the role of the Doctor in the BBC'S new series of ""Doctor Who"" alongside Billie Piper, after Christopher Eccleston decided to leave. After that, he became a household name.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>David Tennant
+
+Birth name:
+
+David John McDonald
+
+Date of Birth:
+
+18 April 1971 Bathgate, West Lothian, Scotland, UK
+
+Height:
+
+6' 1"" (1.85 m)
+
+David Tennant was born David John McDonald on the 18th April 1971 in West Lothian, Scotland, to a father who was a Presbyterian minister. When he was about 3 or 4 years old, he decided to become an actor because of the BBC show ""Doctor Who"" (the series that started in 1963). He was appearing on television before he started school!He was brought up in Bathgate and became a huge fan of the band The Proclaimers. He attended Paisley Grammar school and while there he wrote about how he wanted to become a professional actor and play the role of the Doctor in ""Doctor Who.""He was first noticed by Scottish television at a Saturday youth club he attended. He trained at the Royal Scottish Academy of Music and Drama.In 2005, his wish came true. David was cast to play the role of the Doctor in the BBC'S new series of ""Doctor Who"" alongside Billie Piper, after Christopher Eccleston decided to leave. After that, he became a household name. Show more »
+
+David Tennant was born David John McDonald on the 18th April 1971 in West Lothian, Scotland, to a father who was a Presbyterian minister. When he was about 3 or 4 years old, he decided to become an actor because of the BBC show ""Doctor Who"" (the series that started in 1963). He was appearing on television before he started school!He was brought up in Bathgate and became a huge fan of the band The Proclaimers. He attended Paisley Grammar school and while there he wrote about how he wanted to become a professional actor and play the role of the Doctor in ""Doctor Who.""He was first noticed by Scottish television at a Saturday youth club he attended. He trained at the Royal Scottish Academy of Music and Drama.In 2005, his wish came true. David was cast to play the role of the Doctor in the BBC'S new series of ""Doctor Who"" alongside Billie Piper, after Christopher Eccleston decided to leave. After that, he became a household name.",512,51,"tensor(True, device='cuda:0')",False
+7965,"[5006, 665, 13, 4443, 744, 2348, 407, 25970, 273, 21189, 44773, 13, 21936, 281, 15142, 253, 19201, 22159, 326, 310, 35247, 253, 41182, 15, 1292, 752, 344, 41217, 310, 247, 19143, 11453, 22159, 326, 310, 625, 6110, 275, 761, 2996, 16053, 285, 2403, 3440, 685, 1474, 36934, 4344, 40258, 1241, 15]"," boy who, emboldened by tales of brave knights, decides to pursue the horrible dragon that is terrifying the villagers. But what he discovers is a surprisingly friendly dragon that is more interested in reciting poetry and making music than devouring fair damsels.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>Disney Animation Collection Volume 6: The Reluctant Dragon
+
+""The Reluctant Dragon"" follows the adventures of a brave young boy who, emboldened by tales of brave knights, decides to pursue the horrible dragon that is terrifying the villagers. But what he discovers is a surprisingly friendly dragon that is more interested in reciting poetry and making music than devouring fair damsels.
+
+""The Reluctant Dragon"" follows the adventures of a brave young boy who, emboldened by tales of brave knights, decides to pursue the horrible dragon that is terrifying the villagers. But what he discovers is a surprisingly friendly dragon that is more interested in reciting poetry and making music than devouring fair damsels.",512,51,"tensor(True, device='cuda:0')",False
+9126,"[48957, 6270, 46737, 13, 326, 310, 15, 1292, 359, 452, 281, 5194, 352, 369, 3965, 277, 1596, 1774, 15, 10337, 1641, 275, 253, 7060, 9860, 4491, 13037, 281, 2312, 670, 253, 3971, 27027, 285, 8130, 323, 253, 7060, 9860, 13, 285, 849, 12232, 352, 310, 281, 755, 352, 598, 285, 3515]"," moderator Tom Cain, that is. But we have to agree it was pretty darn important. Experts in the smart grid industry gathered to talk about the roadblocks and strategies for the smart grid, and how vital it is to get it up and running","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>Clean Tech Forum 2009: Smart Grid Panel is the Most Important of Event
+
+Well, according to moderator Tom Cain, that is. But we have to agree it was pretty darn important. Experts in the smart grid industry gathered to talk about the roadblocks and strategies for the smart grid, and how vital it is to get it up and running nationwide as soon as possible. Click through to hear their talk.The panel included some serious players in the industry. From left to right, moderator Tom Cain, Managing Partner of Sail Venture Partners, Mossadiqu Umedaly, Chairman of BC Hydro, Bill Vogel, CEO of Trilliant, Scott MacDonald, Partner of Emerald Technology, and Eric Dresselhuys, VP and Co-founder of Silver Spring Networks.
+
+Debate on whether or not start-ups can work in the smart grid sphere, and the impact of the stimulus package.
+
+The panel noted that utilities are big beasts and you want them to be very prudent and have reliable systems, so they have to know their suppliers will be there for the long term and have integrated systems. Because of this, the start-ups have a hard time selling individual components to utilities. But the thing is, the smart grid is so new that most all the companies in the industry are fairly small start-ups. Larger organizations get more attention because of their perceived stability, but start-ups also need acknowledgment.
+
+There's tremendous room for innovation in this stage, including a huge opportunity for small companies, vevnture capitalists, and everyone else. Innovation is definitely wanted by utilities but the responsibility of providing power is so serious that innovation is taken with trepidation.
+
+Clean Tech Forum 2009: Smart Grid Panel is the Most Important of Event
+
+Well, according to moderator Tom Cain, that is. But we have to agree it was pretty darn important. Experts in the smart grid industry gathered to talk about the roadblocks and strategies for the smart grid, and how vital it is to get it up and running",512,51,"tensor(True, device='cuda:0')",False
+9416,"[13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13]",",6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,","/*
+** $Id: lobject.c,v 2.22.1.1 2007/12/27 13:02:25 roberto Exp $
+** Some generic functions over Lua objects
+** See Copyright Notice in lua.h
+*/
+
+#include <ctype.h>
+#include <stdarg.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#define lobject_c
+#define LUA_CORE
+
+#include ""lua.h""
+
+#include ""ldo.h""
+#include ""lmem.h""
+#include ""lobject.h""
+#include ""lstate.h""
+#include ""lstring.h""
+#include ""lvm.h""
+
+
+
+const TValue luaO_nilobject_ = {{NULL}, LUA_TNIL};
+
+
+/*
+** converts an integer to a ""floating point byte"", represented as
+** (eeeeexxx), where the real value is (1xxx) * 2^(eeeee - 1) if
+** eeeee != 0 and (xxx) otherwise.
+*/
+int luaO_int2fb (unsigned int x) {
+  int e = 0;  /* expoent */
+  while (x >= 16) {
+    x = (x+1) >> 1;
+    e++;
+  }
+  if (x < 8) return x;
+  else return ((e+1) << 3) | (cast_int(x) - 8);
+}
+
+
+/* converts back */
+int luaO_fb2int (int x) {
+  int e = (x >> 3) & 31;
+  if (e == 0) return x;
+  else return ((x & 7)+8) << (e - 1);
+}
+
+
+int luaO_log2 (unsigned int x) {
+  static const lu_byte log_2[256] = {
+    0,1,2,2,3,3,3,3,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+    6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,",512,51,"tensor(True, device='cuda:0')",False
+9693,"[520, 1630, 28, 20672, 5045, 187, 520, 1619, 537, 520, 1619, 28, 3105, 14, 25216, 5045, 187, 520, 1717, 537, 520, 1717, 28, 20672, 5045, 187, 12522, 34, 537, 12522, 34, 28, 3105, 14, 25216, 5045, 187, 12522, 35, 537, 12522, 35, 28, 20672, 5045, 187, 12522, 36, 537, 12522, 36]","0127; Lowercase
+0128..0128; Not-Lowercase
+0129..0129; Lowercase
+012A..012A; Not-Lowercase
+012B..012B; Lowercase
+012C..012C","0000..0060; Not-Lowercase
+0061..007A; Lowercase
+007B..00A9; Not-Lowercase
+00AA..00AA; Lowercase
+00AB..00B4; Not-Lowercase
+00B5..00B5; Lowercase
+00B6..00B9; Not-Lowercase
+00BA..00BA; Lowercase
+00BB..00DE; Not-Lowercase
+00DF..00F6; Lowercase
+00F7..00F7; Not-Lowercase
+00F8..00FF; Lowercase
+0100..0100; Not-Lowercase
+0101..0101; Lowercase
+0102..0102; Not-Lowercase
+0103..0103; Lowercase
+0104..0104; Not-Lowercase
+0105..0105; Lowercase
+0106..0106; Not-Lowercase
+0107..0107; Lowercase
+0108..0108; Not-Lowercase
+0109..0109; Lowercase
+010A..010A; Not-Lowercase
+010B..010B; Lowercase
+010C..010C; Not-Lowercase
+010D..010D; Lowercase
+010E..010E; Not-Lowercase
+010F..010F; Lowercase
+0110..0110; Not-Lowercase
+0111..0111; Lowercase
+0112..0112; Not-Lowercase
+0113..0113; Lowercase
+0114..0114; Not-Lowercase
+0115..0115; Lowercase
+0116..0116; Not-Lowercase
+0117..0117; Lowercase
+0118..0118; Not-Lowercase
+0119..0119; Lowercase
+011A..011A; Not-Lowercase
+011B..011B; Lowercase
+011C..011C; Not-Lowercase
+011D..011D; Lowercase
+011E..011E; Not-Lowercase
+011F..011F; Lowercase
+0120..0120; Not-Lowercase
+0121..0121; Lowercase
+0122..0122; Not-Lowercase
+0123..0123; Lowercase
+0124..0124; Not-Lowercase
+0125..0125; Lowercase
+0126..0126; Not-Lowercase
+0127..0127; Lowercase
+0128..0128; Not-Lowercase
+0129..0129; Lowercase
+012A..012A; Not-Lowercase
+012B..012B; Lowercase
+012C..012C",512,51,"tensor(True, device='cuda:0')",False
+Final Summary,,,,512,51,"Total Memorized: 0.0018789556962025317, Index List: [129, 626, 1364, 1841, 3131, 3954, 4035, 4163, 4473, 4582, 5268, 5630, 6284, 6510, 7501, 7965, 9126, 9416, 9693]",
+129,"[94, 187, 50276, 4387, 1159, 873, 4814, 3914, 2364, 10, 187, 50276, 92, 187, 50274, 5, 2520, 1168, 2364, 426, 370, 2364, 28, 187, 50276, 94, 187, 50276, 4387, 1159, 755, 4814, 1082, 187, 50276, 92, 187, 50274, 2309, 370, 2520, 1168, 2364, 28, 187, 50276, 94, 187, 50276, 4387, 1159, 873, 3902, 2548, 3914, 2877, 2548, 10, 187, 50276, 92, 187, 50274, 5, 2520, 1168, 2877, 2548, 426, 370, 2877, 2548, 28, 187, 50276, 94, 187, 50276, 4387, 1159, 755, 3902, 2548, 1082, 187, 50276, 92, 187, 50274, 2309, 370, 2520, 1168, 2877, 2548, 28, 187, 50276, 94, 187, 94, 187]","}
+  public function setKey($key)
+  {
+    $this->key = $key;
+  }
+  public function getKey()
+  {
+    return $this->key;
+  }
+  public function setValueType($valueType)
+  {
+    $this->valueType = $valueType;
+  }
+  public function getValueType()
+  {
+    return $this->valueType;
+  }
+}
+","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><?php
+/*
+ * Copyright 2014 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the ""License""); you may not
+ * use this file except in compliance with the License. You may obtain a copy of
+ * the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an ""AS IS"" BASIS, WITHOUT
+ * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+ * License for the specific language governing permissions and limitations under
+ * the License.
+ */
+
+class Google_Service_ServiceUser_LabelDescriptor extends Google_Model
+{
+  public $description;
+  public $key;
+  public $valueType;
+
+  public function setDescription($description)
+  {
+    $this->description = $description;
+  }
+  public function getDescription()
+  {
+    return $this->description;
+  }
+  public function setKey($key)
+  {
+    $this->key = $key;
+  }
+  public function getKey()
+  {
+    return $this->key;
+  }
+  public function setValueType($valueType)
+  {
+    $this->valueType = $valueType;
+  }
+  public function getValueType()
+  {
+    return $this->valueType;
+  }
+}
+",512,102,"tensor(True, device='cuda:0')",False
+1364,"[17639, 13, 6385, 394, 285, 278, 1000, 2092, 273, 436, 18892, 16365, 5665, 368, 11654, 342, 436, 372, 732, 494, 38323, 2963, 80, 6362, 1885, 15, 329, 3962, 4327, 323, 305, 12545, 436, 18066, 422, 2952, 281, 634, 7636, 4394, 537, 28890, 436, 5389, 1885, 432, 253, 42449, 489, 273, 329, 522, 2369, 17549, 284, 14644, 285, 7278, 253, 10763, 273, 634, 1728, 285, 1056, 634, 4327, 247, 31970, 3934, 323, 2571, 15, 329, 522, 2369, 17549, 284, 14644, 10316, 2257, 273, 38323, 4957, 285, 288, 1301, 398, 323, 436, 18066, 422, 2952, 281, 1056, 12959, 22765, 763, 494, 285, 30357, 28]"," cheer, mirth and merriment of this divine festival surround you forever with this delectable decorative pooja product. A perfect choice for gifting this festive season to your loved ones.. Choose this beautiful product from the Hosue of Aapno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>50% OFF
+
+Enticing Shubh Labh Door Hangings! May the joy, cheer, mirth and merriment of this divine festival surround you forever with this delectable decorative pooja product. A perfect choice for gifting this festive season to your loved ones.. Choose this beautiful product from the Hosue of Aapno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;
+
+Description of product
+
+Enticing Shubh Labh Door Hangings! May the joy, cheer, mirth and merriment of this divine festival surround you forever with this delectable decorative pooja product. A perfect choice for gifting this festive season to your loved ones.. Choose this beautiful product from the Hosue of Aapno Rajasthan and enhance the beauty of your home and make your choice a cynosure for others. Aapno Rajasthan brings lot of decorative items and hampers for this festive season to make memories cherishable and enjoyable;",512,102,"tensor(True, device='cuda:0')",False
+3954,"[281, 253, 337, 296, 9037, 327, 31405, 44250, 28598, 5950, 27938, 2, 187, 6067, 2455, 1246, 12141, 13, 353, 3703, 26957, 1503, 19416, 13, 8599, 521, 2926, 273, 30564, 272, 2439, 15732, 432, 253, 6420, 313, 24721, 18907, 3689, 73, 3228, 10, 281, 253, 6146, 313, 41, 46116, 10, 327, 247, 2456, 807, 1711, 8386, 34467, 3948, 13, 30231, 11132, 13, 33823, 13, 34379, 12932, 19633, 30649, 326, 13446, 779, 715, 247, 2644, 1533, 273, 4715, 9191, 344, 1620, 3264, 15, 187, 34, 16428, 2715, 273, 436, 1503, 6188, 7663, 588, 320, 2130, 3517, 327, 31405, 44250, 28598, 15167, 16824, 27, 5987]"," to the 1st episode on Hamburger Generation recorded remotely!
+Our ever present guest, Moe Abu Zayed, tells his story of backpacking across Vietnam from the south (Ho Chi Minh City) to the north (Hanoi) on a 50 year old kickstarter engine, clutch challenging, communist, Honda Win exterior motorcycle that lands him into a whole world of learning curves he never expected.
+A Video version of this Zoom recording will be available soon on Hamburger Generation YouTube Channel: https","Hamburger Generation | جيل الهمبرجرhttps://hamburgergeneration.com/story-submission/
+Thu, 21 May 2020 11:19:11 +0000Thu, 21 May 2020 11:19:11 +000060enAll rights reservedfeeds@soundcloud.com (SoundCloud Feeds)Bite-sized podcast episodes full of light-hearted stories about the lives of 2nd & 3rd generation expats. Brought to you by Jamil Adas & Isra Abu Zayed.
+Available on all podcast apps.
+Happy Listening Burgers!Bite-sized podcast episodes full of light-hearted…Hamburger Generation | جيل الهمبرجرgenerationhamburger@gmail.comHamburger Generation | جيل الهمبرجرnohttps://i1.sndcdn.com/avatars-000523735053-1avwij-original.jpgHamburger Generation | جيل الهمبرجرhttps://hamburgergeneration.com/story-submission/
+tag:soundcloud,2010:tracks/825044380049 - Motorcycle DiariesThu, 21 May 2020 00:00:00 +0000https://soundcloud.com/hamburger-generation/049-motorcycle-diaries
+00:49:08Hamburger Generation | جيل الهمبرجرnoWelcome to the 1st episode on Hamburger Generation recorded remotely!
+Our ever present guest, Moe Abu Zayed, tells his story of backpacking across Vietnam from the south (Ho Chi Minh City) to the north (Hanoi) on a 50 year old kickstarter engine, clutch challenging, communist, Honda Win exterior motorcycle that lands him into a whole world of learning curves he never expected.
+A Video version of this Zoom recording will be available soon on Hamburger Generation YouTube Channel: https://www.youtube.com/channel/UCj6Zuosxt-4UwL8gz8bzM_Q?sub_confirmation=1
+Happy Listening Burgers!
+If you love the Hamburger Generation podcast, please consider making a small monthly donation through our Patreon page where you can immediately claim some awesome benefits!
+https://www.patreon.com/hamburgergenerationWelcome to the 1st episode on Hamburger Generatio…Welcome to the 1st episode on Hamburger Generation recorded remotely!
+Our ever present guest, Moe Abu Zayed, tells his story of backpacking across Vietnam from the south (Ho Chi Minh City) to the north (Hanoi) on a 50 year old kickstarter engine, clutch challenging, communist, Honda Win exterior motorcycle that lands him into a whole world of learning curves he never expected.
+A Video version of this Zoom recording will be available soon on Hamburger Generation YouTube Channel: https",512,102,"tensor(True, device='cuda:0')",False
+4163,"[23261, 326, 2335, 1659, 875, 3060, 285, 643, 4811, 273, 253, 1533, 347, 247, 906, 273, 4288, 13, 5454, 13, 285, 32591, 15, 187, 187, 38989, 326, 368, 403, 4758, 562, 327, 247, 9455, 281, 247, 8921, 747, 2659, 15, 1737, 588, 368, 3324, 342, 368, 32, 1737, 513, 368, 1158, 368, 588, 1089, 32, 21696, 588, 9186, 2987, 273, 1445, 432, 253, 8178, 1336, 457, 4849, 285, 8338, 253, 6281, 273, 8338, 2967, 4768, 2892, 285, 253, 8928, 23261, 326, 2335, 1659, 875, 3060, 285, 643, 4811, 273, 253, 1533, 347, 247, 906, 273, 4288, 13, 5454, 13, 285, 32591, 15]"," exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.
+
+Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.","<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>Events for April 17, 2014
+
+Discover how the Walters comes alive at night! Every Thursday from 5-9 p.m., you can wander the galleries, see special exhibitions for FREE, eat in our café and find the perfect gift at the museum store.
+
+During the late 19th and early 20th century, fine book binding enjoyed a golden age of creativity and lavish decoration. These handmade, individual and highly personal objects were made not only to protect the texts they contained, but also to be admired and appreciated as portable decorative masterpieces in their own right.
+
+The Japanese art of flower arranging, or ikebana, has inspired the creation of extraordinary ceramic containers. This exhibition outlines the history of some of Japan’s major schools of ikebana and displays a wide variety of contemporary ceramics created in harmony with the most modern floral conventions.
+
+Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.
+
+Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.
+
+Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.
+
+Imagine that you are setting out on a journey to a strange new land. What will you bring with you? What do you think you will find? Students will examine works of art from the Walters’ collection and explore the stories of explorers throughout history and the cultural exchanges that took place between Europe and other regions of the world as a result of travel, trade, and colonization.",512,102,"tensor(True, device='cuda:0')",False
+5630,"[2927, 273, 521, 26283, 285, 5384, 16443, 15, 380, 1984, 310, 247, 7166, 2576, 13, 20565, 528, 3158, 1239, 326, 2722, 17025, 434, 21242, 313, 395, 23057, 10, 275, 512, 273, 697, 37937, 314, 18735, 15, 187, 187, 42, 1918, 253, 1984, 619, 2644, 32928, 17401, 15, 1310, 368, 1472, 2819, 323, 690, 37768, 4361, 13, 352, 434, 417, 4555, 253, 1928, 1175, 1984, 273, 253, 807, 13, 533, 9106, 15966, 15, 2596, 2508, 275, 253, 1984, 326, 309, 8715, 626, 1929, 1078, 310, 849, 1199, 17025, 7636, 253, 23193, 15, 4952, 2167, 344, 369, 512, 670, 25390, 266, 2977, 849, 521]"," eyes of his wives and mistresses. The book is a juicy, scandalous quick read that shows Wright's genius (and ego) in all of its prickly glory.
+
+I give the book my wholehearted recommendation. If you're looking for some Holiday reading, it's not exactly the feel good book of the year, but totally engaging. One detail in the book that I hadn't known before is how much Wright loved the holidays. Even though he was all about micromanaging how his","December 25, 2010
+
+I'm Dreaming of a Wright Christmas
+
+Over my holiday break, I finally had time to finish reading The Women by T. Coraghessen Boyle (the author that brought you The Road to Wellville and The Inner Circle). The Women is a work of historical fiction about Frank Lloyd Wright... a seen through the eyes of his wives and mistresses. The book is a juicy, scandalous quick read that shows Wright's genius (and ego) in all of its prickly glory.
+
+I give the book my wholehearted recommendation. If you're looking for some Holiday reading, it's not exactly the feel good book of the year, but totally engaging. One detail in the book that I hadn't known before is how much Wright loved the holidays. Even though he was all about micromanaging how his clients lived in their houses, he couldn't help but deck the halls at Taliesin with boughs of holly and whatever else he felt was appropriate.
+
+It took roughly 12 square feet of gingerbread dough (that’s four large batches) to make all the walls, floors and roof
+
+Over 8 bags of powdered sugar were used to make all the frosting
+
+It took over 40 sleeves of large Smarties which are used to simulate dry stack stone on the building exterior
+
+The river and water fall are made up of three batches of hard candy
+
+The little details are killing me. The Smarties are such beautiful pastel holiday stand-ins for the locally quarried stone that Wright incorporated into the design. The icicles, trees, candy waterfall and cantilevered slabs of ginerbread concrete are beautifully rendered. Melodie, the mastermind behind the gingerbread house, has a degree in landscape management, which she followed up with a stint in culinary school. It's good to know that those two skills can exist in perfect harmony (in Melodie).
+
+Let's hope preservation of this gingerbread house takes less than the 11.4 million dollars (and counting) that the original Fallingwater has needed for restoration. Happy Holidays, everyone!
+
+Comments
+
+I'm Dreaming of a Wright Christmas
+
+Over my holiday break, I finally had time to finish reading The Women by T. Coraghessen Boyle (the author that brought you The Road to Wellville and The Inner Circle). The Women is a work of historical fiction about Frank Lloyd Wright... a seen through the eyes of his wives and mistresses. The book is a juicy, scandalous quick read that shows Wright's genius (and ego) in all of its prickly glory.
+
+I give the book my wholehearted recommendation. If you're looking for some Holiday reading, it's not exactly the feel good book of the year, but totally engaging. One detail in the book that I hadn't known before is how much Wright loved the holidays. Even though he was all about micromanaging how his",512,102,"tensor(True, device='cuda:0')",False
+9416,"[13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 23, 13, 187, 50274, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24, 13, 24]",",6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+    7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7","/*
+** $Id: lobject.c,v 2.22.1.1 2007/12/27 13:02:25 roberto Exp $
+** Some generic functions over Lua objects
+** See Copyright Notice in lua.h
+*/
+
+#include <ctype.h>
+#include <stdarg.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#define lobject_c
+#define LUA_CORE
+
+#include ""lua.h""
+
+#include ""ldo.h""
+#include ""lmem.h""
+#include ""lobject.h""
+#include ""lstate.h""
+#include ""lstring.h""
+#include ""lvm.h""
+
+
+
+const TValue luaO_nilobject_ = {{NULL}, LUA_TNIL};
+
+
+/*
+** converts an integer to a ""floating point byte"", represented as
+** (eeeeexxx), where the real value is (1xxx) * 2^(eeeee - 1) if
+** eeeee != 0 and (xxx) otherwise.
+*/
+int luaO_int2fb (unsigned int x) {
+  int e = 0;  /* expoent */
+  while (x >= 16) {
+    x = (x+1) >> 1;
+    e++;
+  }
+  if (x < 8) return x;
+  else return ((e+1) << 3) | (cast_int(x) - 8);
+}
+
+
+/* converts back */
+int luaO_fb2int (int x) {
+  int e = (x >> 3) & 31;
+  if (e == 0) return x;
+  else return ((x & 7)+8) << (e - 1);
+}
+
+
+int luaO_log2 (unsigned int x) {
+  static const lu_byte log_2[256] = {
+    0,1,2,2,3,3,3,3,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+    6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+    7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7",512,102,"tensor(True, device='cuda:0')",False
+9693,"[520, 1630, 28, 20672, 5045, 187, 520, 1619, 537, 520, 1619, 28, 3105, 14, 25216, 5045, 187, 520, 1717, 537, 520, 1717, 28, 20672, 5045, 187, 12522, 34, 537, 12522, 34, 28, 3105, 14, 25216, 5045, 187, 12522, 35, 537, 12522, 35, 28, 20672, 5045, 187, 12522, 36, 537, 12522, 36, 28, 3105, 14, 25216, 5045, 187, 12522, 37, 537, 12522, 37, 28, 20672, 5045, 187, 12522, 38, 537, 12522, 38, 28, 3105, 14, 25216, 5045, 187, 12522, 39, 537, 12522, 39, 28, 20672, 5045, 187, 520, 1229, 537, 520, 1229, 28, 3105, 14, 25216, 5045, 187, 520, 2405, 537, 520, 2405]","0127; Lowercase
+0128..0128; Not-Lowercase
+0129..0129; Lowercase
+012A..012A; Not-Lowercase
+012B..012B; Lowercase
+012C..012C; Not-Lowercase
+012D..012D; Lowercase
+012E..012E; Not-Lowercase
+012F..012F; Lowercase
+0130..0130; Not-Lowercase
+0131..0131","0000..0060; Not-Lowercase
+0061..007A; Lowercase
+007B..00A9; Not-Lowercase
+00AA..00AA; Lowercase
+00AB..00B4; Not-Lowercase
+00B5..00B5; Lowercase
+00B6..00B9; Not-Lowercase
+00BA..00BA; Lowercase
+00BB..00DE; Not-Lowercase
+00DF..00F6; Lowercase
+00F7..00F7; Not-Lowercase
+00F8..00FF; Lowercase
+0100..0100; Not-Lowercase
+0101..0101; Lowercase
+0102..0102; Not-Lowercase
+0103..0103; Lowercase
+0104..0104; Not-Lowercase
+0105..0105; Lowercase
+0106..0106; Not-Lowercase
+0107..0107; Lowercase
+0108..0108; Not-Lowercase
+0109..0109; Lowercase
+010A..010A; Not-Lowercase
+010B..010B; Lowercase
+010C..010C; Not-Lowercase
+010D..010D; Lowercase
+010E..010E; Not-Lowercase
+010F..010F; Lowercase
+0110..0110; Not-Lowercase
+0111..0111; Lowercase
+0112..0112; Not-Lowercase
+0113..0113; Lowercase
+0114..0114; Not-Lowercase
+0115..0115; Lowercase
+0116..0116; Not-Lowercase
+0117..0117; Lowercase
+0118..0118; Not-Lowercase
+0119..0119; Lowercase
+011A..011A; Not-Lowercase
+011B..011B; Lowercase
+011C..011C; Not-Lowercase
+011D..011D; Lowercase
+011E..011E; Not-Lowercase
+011F..011F; Lowercase
+0120..0120; Not-Lowercase
+0121..0121; Lowercase
+0122..0122; Not-Lowercase
+0123..0123; Lowercase
+0124..0124; Not-Lowercase
+0125..0125; Lowercase
+0126..0126; Not-Lowercase
+0127..0127; Lowercase
+0128..0128; Not-Lowercase
+0129..0129; Lowercase
+012A..012A; Not-Lowercase
+012B..012B; Lowercase
+012C..012C; Not-Lowercase
+012D..012D; Lowercase
+012E..012E; Not-Lowercase
+012F..012F; Lowercase
+0130..0130; Not-Lowercase
+0131..0131",512,102,"tensor(True, device='cuda:0')",False
+Final Summary,,,,512,102,"Total Memorized: 0.000692246835443038, Index List: [129, 1364, 3954, 4163, 5630, 9416, 9693]",
+Final Summary,,,,512,204,"Total Memorized: 0.0, Index List: []",
+Final Summary,,,,512,512,"Total Memorized: 0.0, Index List: []",

@@ -1,0 +1,10 @@
+[
+    {
+        "level": -1,
+        "load_in_4bit": false,
+        "load_in_8bit": false,
+        "bnb_4bit_use_double_quant": false,
+        "bnb_4bit_quant_storage": "float32",
+        "bnb_4bit_compute_dtype": "float32"
+    }
+]
