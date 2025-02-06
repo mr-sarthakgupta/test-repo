@@ -1,11 +1,12 @@
 #!/bin/bash
 
-# so we have 8 GPUs available and so need to assign one to each model that we will be running.
-batch_size=(2 500 250 20)
+# We have 8 GPUs available, but we need only 4 for the current batch sizes.
+batch_size=(1000 500 250 20)
 
-# for i in {0}; do
-CUDA_VISIBLE_DEVICES=0 BATCH_SIZE=${batch_size[0]} MODEL_NUM="0" ./evaluate_memorization.sh
-# done
-# wait
+for i in {0..3}; do
+  CUDA_VISIBLE_DEVICES=$i BATCH_SIZE=${batch_size[$i]} MODEL_NUM=$i ./evaluate_memorization.sh &
+done
+
+wait  # Wait for all background processes to finish
 
 echo "All evaluations completed."
