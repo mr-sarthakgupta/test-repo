@@ -1,5 +1,4 @@
 [
-    ,
     {
         "model_name": "EleutherAI/pythia-410m",
         "model_family": "gpt_neox",

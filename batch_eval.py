@@ -68,6 +68,7 @@ def load_config_from_json(
     json_file: Path,
     config_type: Literal["model", "quant", "layer_swap"]
 ) -> Iterator[QuantConfig]:
+    print(json_file)
     with open(json_file, "r", encoding="utf-8") as f:
         configs = json.load(f)
     match config_type:
@@ -110,7 +111,7 @@ class MemorizationAnalyser:
         quant_config_swap: Optional[QuantConfig],
         layer_swap_config: Optional[LayerSwapConfig],
         swap_every: Optional[List[str]],
-        dataset_name: str = "monology/pile-uncopyrighted",
+        dataset_name: str = "legacy-datasets/wikipedia",
         batch_size: int = 128,
         device_map: Literal["cpu", "auto", "balanced"] = "balanced",
         dtype_map: Dict = create_dtype_map(),
@@ -328,7 +329,9 @@ class MemorizationAnalyser:
                     # print(target_tokens.size())
                     # self.memorized += (target_tokens == output_ids[:, context_length:context_length + target_length]).all(dim=1).sum().item()
                     # self.prompts += len(output_ids)
-                    
+                    # print(target_tokens.shape)
+                    # print(output_ids.shape)
+                    # exit()
                     memorized_mask = (target_tokens == output_ids[:, context_length:context_length + target_length]).all(dim=1)  
                     self.memorized += memorized_mask.sum().item()
                     if baseline_memorized is not None:
@@ -483,8 +486,10 @@ class MemorizationAnalyser:
         
         self.dataset : IterableDataset = load_dataset(
             self.dataset_name,
+            "20220301.en",
             split="train",
-            streaming=True
+            streaming=True,
+            trust_remote_code=True
         ).shuffle(
             seed  
         ).filter(
@@ -574,7 +579,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--dataset",
         type = str,
-        default= "monology/pile-uncopyrighted",
+        default= "legacy-datasets/wikipedia",
         help = "Benchmark dataset name"
     )
     parser.add_argument(
