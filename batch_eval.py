@@ -297,7 +297,7 @@ class MemorizationAnalyser:
                     inputs = self.tokenizer(
                         prompts["text"],
                         return_tensors="pt",
-                        padding=True,
+                        padding="max_length",
                         truncation=True,
                         max_length= max(context_lengths)+target_length,
                     ).to(self.model.device)
