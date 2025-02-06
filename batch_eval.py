@@ -168,7 +168,7 @@ class MemorizationAnalyser:
             device_map=self.device_map
         )
         self.model.eval()
-        self.context_length = self.model.config.max_position_embeddings
+        self.context_length = 2000
         self.log_path = (
             f"./logs/model={self.model_name}/compute_dtype={self.dtype}/"
             f"load_in={self.load_in}"
@@ -487,9 +487,8 @@ class MemorizationAnalyser:
         self.dataset : IterableDataset = load_dataset(
             self.dataset_name,
             "20220301.en",
-            "20220301.en",
             split="train",
-            streaming=True,,
+            streaming=True,
             trust_remote_code=True
         ).shuffle(
             seed  
