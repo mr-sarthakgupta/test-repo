@@ -298,7 +298,7 @@ class MemorizationAnalyser:
                     inputs = self.tokenizer(
                         prompts["text"],
                         return_tensors="pt",
-                        padding=True,
+                        padding="max_length",
                         truncation=True,
                         max_length= max(context_lengths)+target_length,
                     ).to(self.model.device)
@@ -487,8 +487,9 @@ class MemorizationAnalyser:
         self.dataset : IterableDataset = load_dataset(
             self.dataset_name,
             "20220301.en",
+            "20220301.en",
             split="train",
-            streaming=True,
+            streaming=True,,
             trust_remote_code=True
         ).shuffle(
             seed  
