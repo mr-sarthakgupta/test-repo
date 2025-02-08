@@ -1,0 +1,7 @@
+[
+    {
+        "model_name": "mistralai/Mistral-7B-v0.1",
+        "model_family": "mistral",
+        "model_path": "/path/to/model"
+    }
+]
