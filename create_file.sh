@@ -1,1 +1,3 @@
-mkdir test-ok
+#!/bin/bash
+
+echo "hello" > example.txt
