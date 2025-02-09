@@ -285,6 +285,10 @@ class MemorizationAnalyser:
         )
         results: List = []
         results_summary: Dict = {}
+        if baseline_memorized is not None:
+            with open(baseline_memorized, "r") as f:
+                json_data = json.load(f)
+                            
         for context_length in tqdm(context_lengths, desc="Context Lengths"):
             for target_length in tqdm(target_lengths, desc=f"Processing Context Length: {context_length}", leave=False):
                 print(f"Model: {self.model_name}, Dataset: {self.dataset_name}, \
@@ -334,16 +338,12 @@ class MemorizationAnalyser:
                     # exit()
                     memorized_mask = (target_tokens == output_ids[:, context_length:context_length + target_length]).all(dim=1)  
                     self.memorized += memorized_mask.sum().item()
+                    key = f"Model={self.model_name}_Context={context_length}_Target={target_length}"
+                    print(f"key: {key}")
                     if baseline_memorized is not None:
-                        print(f"baseline memorized passed: {baseline_memorized}")
-                        with open(baseline_memorized, "r") as f:
-                            json_data = json.load(f)
-                            key = f"Model={self.model_name}_Context={context_length}_Target={target_length}"
-                            print(f"key: {key}")
-                            for data in json_data:
-                                print(f"json_data: {data}")
-                                if key in data:
-                                    baseline_memorized_ = data[key]["Index List"]     
+                        for data in json_data:
+                            if key in data:
+                                baseline_memorized_ = data[key]["Index List"]     
                     else:
                         baseline_memorized_ = []
                     
@@ -364,16 +364,16 @@ class MemorizationAnalyser:
                         )
                         if is_memorized and idx in baseline_memorized_:
                             self.memorized_list.append(self.prompts + idx)  
-                            print(f"  \
-                                Index: {self.prompts + idx} \
-                                Target: {target_tokens} \
-                                Decoded Target: {decoded_target} \
-                                Decoded Output: {decoded_output} \
-                                Context Length: {context_length} \
-                                Target Length: {target_length} \
-                                Memorized: {is_memorized} \
-                                Baseline Memorized: {bool(idx in baseline_memorized_)} \
-                                    ")
+                            # print(f"  \
+                            #     Index: {self.prompts + idx} \
+                            #     Target: {target_tokens} \
+                            #     Decoded Target: {decoded_target} \
+                            #     Decoded Output: {decoded_output} \
+                            #     Context Length: {context_length} \
+                            #     Target Length: {target_length} \
+                            #     Memorized: {is_memorized} \
+                            #     Baseline Memorized: {bool(idx in baseline_memorized_)} \
+                            #         ")
                             results.append({
                                 "Index": self.prompts + idx,  
                                 "Target": target_tokens[idx].tolist(), # Tensor -> List
@@ -385,21 +385,21 @@ class MemorizationAnalyser:
                                 "Baseline Memorized": bool(idx in baseline_memorized_)
                             })
                         elif is_memorized and idx not in baseline_memorized_:
-                            print(
-                                f"idx: {idx} memorized but not memorized by baseline model \
-                                Maybe a baseline memorized list was not provided. \
-                                Let's check.. baseline memorized list present: {bool(baseline_memorized)}"
-                            )
-                            print(f"  \
-                                Index: {self.prompts + idx} \
-                                Target: {target_tokens} \
-                                Decoded Target: {decoded_target} \
-                                Decoded Output: {decoded_output} \
-                                Context Length: {context_length} \
-                                Target Length: {target_length} \
-                                Memorized: {is_memorized} \
-                                Baseline Memorized: {bool(idx in baseline_memorized_)} \
-                                    ")
+                            # print(
+                            #     f"idx: {idx} memorized but not memorized by baseline model \
+                            #     Maybe a baseline memorized list was not provided. \
+                            #     Let's check.. baseline memorized list present: {bool(baseline_memorized)}"
+                            # )
+                            # print(f"  \
+                            #     Index: {self.prompts + idx} \
+                            #     Target: {target_tokens} \
+                            #     Decoded Target: {decoded_target} \
+                            #     Decoded Output: {decoded_output} \
+                            #     Context Length: {context_length} \
+                            #     Target Length: {target_length} \
+                            #     Memorized: {is_memorized} \
+                            #     Baseline Memorized: {bool(idx in baseline_memorized_)} \
+                            #         ")
                             results.append({
                                 "Index": self.prompts + idx,  
                                 "Target": target_tokens[idx].tolist(), # Tensor -> List
@@ -415,17 +415,17 @@ class MemorizationAnalyser:
                         
                         elif not is_memorized and idx in baseline_memorized_:
                             # gibberish logic
-                            print(f"  \
-                                Index: {self.prompts + idx} \
-                                Target: {target_tokens} \
-                                Decoded Target: {decoded_target} \
-                                Decoded Output: {decoded_output} \
-                                Context Length: {context_length} \
-                                Target Length: {target_length} \
-                                Memorized: {is_memorized} \
-                                Baseline Memorized: {bool(idx in baseline_memorized_)} \
-                                Rogue Scores: {measure_rouge.score(decoded_target, decoded_output)} \
-                                    ")
+                            # print(f"  \
+                            #     Index: {self.prompts + idx} \
+                            #     Target: {target_tokens} \
+                            #     Decoded Target: {decoded_target} \
+                            #     Decoded Output: {decoded_output} \
+                            #     Context Length: {context_length} \
+                            #     Target Length: {target_length} \
+                            #     Memorized: {is_memorized} \
+                            #     Baseline Memorized: {bool(idx in baseline_memorized_)} \
+                            #     Rogue Scores: {measure_rouge.score(decoded_target, decoded_output)} \
+                            #         ")
                             results.append({
                                 "Index": self.prompts + idx,  
                                 "Target": target_tokens[idx].tolist(), # Tensor -> List
