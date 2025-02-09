@@ -45,3 +45,8 @@ for swap in "${swap_values[@]}"; do
 done
 
 echo "All evaluations completed."
+
+git remote -v
+git add logs
+git commit -m "Auto update results added" || echo "commit failed"
+git push -u origin main || echo "git push failed"
